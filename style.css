@@ -13,6 +13,10 @@
     position: relative;
 }
 
+.header img{
+    width: 120px;
+}
+
 .header  h2{
     font-size: 35px;
     text-align: center;
