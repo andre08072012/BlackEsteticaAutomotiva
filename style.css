@@ -351,6 +351,10 @@ h3{
     background: #f44336;
 }
 
+.footer p{
+    color: #000;
+}
+
 .footer h4{
     margin-bottom: 25px;
     margin-top: 20px;
