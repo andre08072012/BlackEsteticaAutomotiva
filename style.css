@@ -21,20 +21,6 @@ html{
     width: 120px;
 }
 
-.header  h2{
-    font-size: 35px;
-    text-align: center;
-    font-weight: bold;
-    text-transform: uppercase;
-    /* fundo gradiente */
-    background-image: radial-gradient(#ff8800, #8406d6);
-    /* agora colocamos o fundo gradiente dentro do texto com essa propriedade */
-    background-clip: text;
-    -webkit-background-clip: text;
-    /* a cor do texto deve estar como transparent */
-    color: transparent;
-}
-
 nav{
     display: flex;
     padding: 2% 6%;
