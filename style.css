@@ -9,6 +9,20 @@ html{
     overflow-x: hidden;
 }
 
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track{
+    background: #f44336;
+    border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb{
+    background: #000;
+    border-radius: 30pc;
+}
+
 .header{
     min-height: 100vh;
     width: 100%;
